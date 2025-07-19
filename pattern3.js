@@ -8,4 +8,4 @@ function pattern3(n) {
   }
 }
 
-pattern3();
+pattern3(5);
